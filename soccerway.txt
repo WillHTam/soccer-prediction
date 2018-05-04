@@ -1,0 +1,211 @@
+1	Germany	1533.00		-
+2	Brazil	1384.00		-
+3	Belgium	1346.00	Previous rank: 5	+2
+4	Portugal	1306.00	Previous rank: 3	-1
+5	Argentina	1254.00	Previous rank: 4	-1
+6	Switzerland	1179.00	Previous rank: 8	+2
+7	France	1166.00	Previous rank: 9	+2
+8	Spain	1162.00	Previous rank: 7	-1
+9	Chile	1146.00	Previous rank: 10	+1
+10	Poland	1118.00	Previous rank: 6	-4
+11	Peru	1106.00		-
+12	Denmark	1054.00		-
+13	England	1040.00	Previous rank: 16	+3
+14	Tunisia	1012.00	Previous rank: 23	+9
+15	Mexico	1008.00	Previous rank: 17	+2
+16	Colombia	989.00	Previous rank: 13	-3
+17	Uruguay	976.00	Previous rank: 22	+5
+18	Croatia	975.00	Previous rank: 15	-3
+19	Netherlands	969.00	Previous rank: 21	+2
+20	Italy	947.00	Previous rank: 14	-6
+21	Wales	931.00	Previous rank: 20	-1
+22	Iceland	930.00	Previous rank: 18	-4
+23	Sweden	889.00	Previous rank: 19	-4
+24	United States	880.00	Previous rank: 25	+1
+25	Costa Rica	858.00	Previous rank: 26	+1
+26	Austria	841.00	Previous rank: 28	+2
+27	Northern Ireland	837.00	Previous rank: 24	-3
+28	Senegal	825.00	Previous rank: 27	-1
+29	Slovakia	786.00		-
+30	Ukraine	777.00	Previous rank: 35	+5
+31	Republic of Ireland	776.00		-
+32	Romania	737.00	Previous rank: 36	+4
+33	Paraguay	737.00	Previous rank: 30	-3
+34	Scotland	735.00	Previous rank: 32	-2
+35	Serbia	732.00	Previous rank: 34	-1
+36	Iran	727.00	Previous rank: 33	-3
+37	Turkey	714.00	Previous rank: 38	+1
+38	Congo DR	711.00	Previous rank: 39	+1
+39	Venezuela	709.00	Previous rank: 48	+9
+40	Australia	700.00	Previous rank: 37	-3
+41	Bosnia-Herzegovina	688.00		-
+42	Morocco	681.00		-
+43	Montenegro	671.00	Previous rank: 46	+3
+44	Greece	657.00	Previous rank: 45	+1
+45	Czech Republic	647.00	Previous rank: 43	-2
+46	Egypt	636.00	Previous rank: 44	-2
+47	Nigeria	635.00	Previous rank: 52	+5
+48	Jamaica	612.00	Previous rank: 49	+1
+49	Norway	608.00	Previous rank: 57	+8
+50	Hungary	604.00		-
+51	Cameroon	603.00		-
+52	Ghana	603.00	Previous rank: 54	+2
+53	Burkina Faso	591.00	Previous rank: 56	+3
+54	Bulgaria	583.00	Previous rank: 40	-14
+55	Panama	575.00	Previous rank: 53	-2
+56	Albania	549.00	Previous rank: 58	+2
+57	Bolivia	548.00	Previous rank: 47	-10
+58	Cape Verde Islands	545.00	Previous rank: 61	+3
+59	Honduras	530.00	Previous rank: 64	+5
+60	Japan	528.00	Previous rank: 55	-5
+61	Korea Republic	520.00	Previous rank: 59	-2
+62	Algeria	516.00	Previous rank: 60	-2
+63	Finland	507.00	Previous rank: 68	+5
+64	Ecuador	506.00	Previous rank: 65	+1
+65	Slovenia	495.00	Previous rank: 62	-3
+66	Russia	493.00	Previous rank: 63	-3
+67	Mali	462.00		-
+68	Côte d'Ivoire	458.00	Previous rank: 71	+3
+69	Guinea	450.00	Previous rank: 70	+1
+70	Saudi Arabia	445.00	Previous rank: 69	-1
+71	Curaçao	439.00	Previous rank: 82	+11
+72	South Africa	433.00	Previous rank: 76	+4
+73	China PR	431.00	Previous rank: 66	-7
+74	Uganda	426.00	Previous rank: 78	+4
+75	Kyrgyzstan	424.00	Previous rank: 115	+40
+76	Syria	423.00	Previous rank: 74	-2
+77	FYR Macedonia	422.00	Previous rank: 75	-2
+78	Zambia	413.00	Previous rank: 77	-1
+79	Belarus	410.00	Previous rank: 93	+14
+80	Canada	407.00	Previous rank: 90	+10
+81	UAE	405.00	Previous rank: 80	-1
+82	Lebanon	404.00	Previous rank: 88	+6
+83	Luxembourg	401.00		-
+84	Palestine	401.00	Previous rank: 73	-11
+85	El Salvador	392.00	Previous rank: 87	+2
+86	Cyprus	386.00	Previous rank: 92	+6
+87	Oman	383.00	Previous rank: 103	+16
+88	Uzbekistan	381.00	Previous rank: 72	-16
+89	Iraq	381.00	Previous rank: 84	-5
+90	Benin	379.00	Previous rank: 81	-9
+91	Congo	378.00	Previous rank: 89	-2
+92	Trinidad and Tobago	374.00	Previous rank: 79	-13
+93	Gabon	374.00	Previous rank: 95	+2
+94	Estonia	364.00	Previous rank: 86	-8
+95	Faroe Islands	364.00	Previous rank: 97	+2
+96	Georgia	362.00	Previous rank: 102	+6
+97	India	354.00	Previous rank: 99	+2
+98	Armenia	347.00	Previous rank: 91	-7
+99	Israel	347.00	Previous rank: 94	-5
+100	Libya	341.00		-
+101	Qatar	339.00		-
+102	Sierra Leone	332.00	Previous rank: 98	-4
+103	Vietnam	331.00	Previous rank: 113	+10
+104	Guinea-Bissau	330.00	Previous rank: 96	-8
+105	Mauritania	323.00	Previous rank: 104	-1
+106	Mozambique	311.00		-
+107	Namibia	305.00	Previous rank: 111	+4
+108	Haiti	302.00	Previous rank: 85	-23
+109	Niger	299.00	Previous rank: 110	+1
+110	Zimbabwe	295.00	Previous rank: 108	-2
+111	Madagascar	293.00	Previous rank: 109	-2
+112	Korea DPR	292.00	Previous rank: 119	+7
+113	Kenya	289.00	Previous rank: 105	-8
+114	Philippines	289.00	Previous rank: 122	+8
+115	Central African Republic	283.00	Previous rank: 121	+6
+116	Bahrain	281.00	Previous rank: 125	+9
+117	Jordan	272.00	Previous rank: 118	+1
+118	Tajikistan	271.00	Previous rank: 124	+6
+119	Kazakhstan	269.00	Previous rank: 136	+17
+120	Malawi	267.00	Previous rank: 123	+3
+121	Chinese Taipei	263.00	Previous rank: 134	+13
+122	Thailand	253.00	Previous rank: 129	+7
+123	Rwanda	252.00	Previous rank: 112	-11
+124	Antigua and Barbuda	251.00	Previous rank: 139	+15
+125	Yemen	250.00	Previous rank: 140	+15
+126	St. Kitts and Nevis	245.00	Previous rank: 107	-19
+127	Azerbaijan	245.00		-
+128	Sudan	245.00	Previous rank: 117	-11
+129	Turkmenistan	242.00	Previous rank: 114	-15
+130	Togo	242.00	Previous rank: 128	-2
+131	Swaziland	240.00	Previous rank: 133	+2
+132	Andorra	230.00	Previous rank: 130	-2
+133	New Zealand	229.00	Previous rank: 120	-13
+134	Lithuania	229.00	Previous rank: 147	+13
+135	Myanmar	227.00	Previous rank: 142	+7
+136	Nicaragua	224.00	Previous rank: 116	-20
+137	Tanzania	223.00	Previous rank: 146	+9
+138	Angola	221.00	Previous rank: 141	+3
+139	Latvia	217.00	Previous rank: 131	-8
+140	Guatemala	198.00	Previous rank: 126	-14
+141	Comoros	195.00	Previous rank: 132	-9
+142	Hong Kong	194.00	Previous rank: 145	+3
+143	Afghanistan	194.00	Previous rank: 148	+5
+144	Equatorial Guinea	190.00	Previous rank: 138	-6
+145	Ethiopia	188.00	Previous rank: 137	-8
+146	Burundi	188.00	Previous rank: 143	-3
+147	Maldives	183.00	Previous rank: 150	+3
+148	Botswana	176.00	Previous rank: 149	+1
+149	Dominican Republic	175.00	Previous rank: 163	+14
+150	Lesotho	175.00	Previous rank: 144	-6
+151	Liberia	167.00	Previous rank: 135	-16
+152	Kosovo	164.00	Previous rank: 176	+24
+153	Solomon Islands	162.00	Previous rank: 151	-2
+154	Suriname	140.00	Previous rank: 157	+3
+155	South Sudan	139.00	Previous rank: 154	-1
+156	Vanuatu	136.00		-
+157	New Caledonia	135.00	Previous rank: 155	-2
+158	Puerto Rico	128.00	Previous rank: 167	+9
+159	Mauritius	122.00	Previous rank: 158	-1
+160	Barbados	118.00	Previous rank: 152	-8
+161	Tahiti	117.00	Previous rank: 153	-8
+162	Indonesia	111.00		-
+163	Guyana	111.00	Previous rank: 159	-4
+164	Nepal	111.00	Previous rank: 165	+1
+165	Chad	110.00	Previous rank: 169	+4
+166	Fiji	110.00	Previous rank: 168	+2
+167	Belize	107.00	Previous rank: 177	+10
+168	St. Lucia	105.00	Previous rank: 173	+5
+169	Cambodia	105.00	Previous rank: 172	+3
+170	Malaysia	104.00	Previous rank: 178	+8
+171	Grenada	103.00	Previous rank: 161	-10
+172	Singapore	102.00	Previous rank: 171	-1
+173	Moldova	98.00	Previous rank: 170	-3
+174	St. Vincent / Grenadines	95.00	Previous rank: 175	+1
+175	Gambia	94.00	Previous rank: 164	-11
+176	Kuwait	88.00	Previous rank: 174	-2
+177	Dominica	88.00	Previous rank: 166	-11
+178	Bermuda	82.00	Previous rank: 184	+6
+179	Laos	80.00	Previous rank: 183	+4
+180	Papua New Guinea	78.00	Previous rank: 160	-20
+181	Liechtenstein	77.00		-
+182	Cuba	75.00		-
+183	Aruba	75.00	Previous rank: 180	-3
+184	Bhutan	68.00	Previous rank: 188	+4
+185	Malta	62.00		-
+186	Macao	60.00		-
+187	São Tomé e Príncipe	59.00	Previous rank: 179	-8
+188	Mongolia	51.00	Previous rank: 189	+1
+189	Guam	45.00	Previous rank: 192	+3
+190	Timor-Leste	44.00		-
+191	American Samoa	38.00	Previous rank: 194	+3
+192	Cook Islands	38.00	Previous rank: 195	+3
+193	Samoa	38.00	Previous rank: 196	+3
+194	Brunei	36.00	Previous rank: 193	-1
+195	Seychelles	36.00	Previous rank: 191	-4
+196	Gibraltar	34.00	Previous rank: 209	+13
+197	Bangladesh	33.00		-
+198	Djibouti	27.00	Previous rank: 187	-11
+199	US Virgin Islands	18.00	Previous rank: 198	-1
+200	Montserrat	17.00	Previous rank: 199	-1
+201	Sri Lanka	17.00	Previous rank: 200	-1
+202	Turks and Caicos Islands	13.00	Previous rank: 201	-1
+203	Pakistan	10.00		-
+204	Cayman Islands	8.00	Previous rank: 202	-2
+205	San Marino	8.00	Previous rank: 204	-1
+206	British Virgin Islands	4.00	Previous rank: 205	-1
+207	Anguilla	0.00	Previous rank: 206	-1
+208	Bahamas	0.00	Previous rank: 207	-1
+209	Eritrea	0.00	Previous rank: 208	-1
+210	Somalia	0.00		-
+211	Tonga	0.00		-
