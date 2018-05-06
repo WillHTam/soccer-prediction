@@ -3,9 +3,15 @@
 - Attempt 1 yielded best of ~57% accuracy with KNN
 - Attempt 2 yielded best of ~72% accuracy with LDA and Dense MLP
 
-Conclusions:
+## Conclusions:
 
 - Data gathering and EDA take a long, long time
+
+- Important to scale your Problem properly
+  - Hypotheses should match the data, and also the ease of answering your questions
+  - Much better to solve smaller and/or easier problems, and scale up from there
+    - I started with trying to answer 'Predicting a World Cup Winner', and ended up with 'Predict One Match'
+    - From here I can use the schedule and run iterations of a script that runs the predictions through the World Cup schedule
 
 - Feature selection very important
   - For sports at least, better to take data points from events that have a relevant level of importance, ie predicting for the World Cup should use World Cup, European Championship, and other large tournament data instead of making trends noisy with friendlies where teams might not use their best squad / maximum ability etc.
